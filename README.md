@@ -1,3 +1,3 @@
 # etch_a_sketch
 
-2nd last proejct before finishing the common path.
+2nd last project before finishing the common path!
