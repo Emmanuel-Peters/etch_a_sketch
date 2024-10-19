@@ -1,5 +1,8 @@
-.main_box
-{
-    
+.container
+{ 
+    display: flex;
     color: red;
+    flex-wrap: wrap;
+    width: 300px;
+    background-color: aquamarine;
 }
