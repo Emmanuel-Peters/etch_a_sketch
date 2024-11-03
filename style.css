@@ -3,6 +3,8 @@
     display: flex;
     color: red;
     flex-wrap: wrap;
-    width: 300px;
+    width: 320px;
+    height: 320px;
     background-color: aquamarine;
+    box-sizing: border-box;
 }
